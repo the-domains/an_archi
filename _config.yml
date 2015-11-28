@@ -1,0 +1,28 @@
+name: An_Archi
+favicon: null
+layout_spectrum: 0.6644596999976784
+typography_spectrum: 0.0042565802577883005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.48923833621665835
+  lightness: 0.4953799631912261
+  saturation: 0.5542426272295415
+  rhythmicContrast: 0.07812050962820649
+purpose: []
